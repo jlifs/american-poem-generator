@@ -1,6 +1,10 @@
 body {
-    background-color: #f9f7fe;
+    background-image: linear-gradient(178deg, rgb(156, 177, 248) 7.5%, rgb(153, 247, 243) 93.1%);
+    height: auto;
+    background-attachment: fixed;
+    background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
+
 }
 
 a {
@@ -25,7 +29,7 @@ h1 {
 }
 
 .form-container {
-    background-color: white;
+    background-color: #f9f7fe;
     margin-bottom: 30px;
     border-radius: 10px;
     box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
@@ -66,7 +70,7 @@ form {
 
 .poem {
     font-size: 16px;
-    background-color: #fff;
+    background-color: #f9f7fe;
     padding: 20px;
     line-height: 2;
     border-left: 3px solid #885df1;
